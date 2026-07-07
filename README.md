@@ -1,19 +1,19 @@
-# Hey! 👋 I'm Guilherme Mesquita
+# Hi there! 👋 I'm Guilherme Mesquita
 
-🎓 Computer Science graduate from the University of Aveiro 🇵🇹
+🎓 BSc in Computer Science — University of Aveiro, Portugal
 
-💻 Interested in:
-- Backend Development
-- Distributed Systems
-- Software Engineering
-- Cloud & DevOps
+I'm passionate about building reliable software, with a particular interest in backend development, distributed systems, cloud technologies and DevOps.
 
-📊 **GitHub Stats**
+## 🚀 Tech Stack
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=GMesquita07&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=GMesquita07&show_icons=true&theme=tokyonight))
+Java • C# • Python • TypeScript • React • Spring Boot • Docker • PostgreSQL • Git
 
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=GMesquita07&layout=compact&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GMesquita07&layout=compact&theme=tokyonight))
+## 📊 GitHub Stats
 
-📫 **Let's connect**
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GMesquita07&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GMesquita07&layout=compact&theme=tokyonight)
+
+## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-mesquita-6abb95373)
