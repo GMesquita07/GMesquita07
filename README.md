@@ -2,7 +2,7 @@
 
 🎓 BSc in Computer Science — University of Aveiro, Portugal
 
-I'm passionate about building reliable software, with a particular interest in backend development, distributed systems, cloud technologies and DevOps.
+I am interested in frontend development and software engineering. I enjoy building intuitive and responsive applications, with a strong focus on both user experience and code quality. During my degree, I worked with a variety of technologies, including React, Java, Python, and Docker, in collaborative projects.
 
 ## 🚀 Tech Stack
 
